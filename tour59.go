@@ -1,4 +1,4 @@
-package main
+package tour59
 
 import (
 	"fmt"
